@@ -1,0 +1,6 @@
+{
+  "name": "Iris SVM Classifier",
+  "description": "Nền tảng Vận Hành ML và FastAPI Swagger UI phân loại hoa Iris bằng SVM, hỗ trợ chọn phiên bản mô hình, tải tệp phân tích dữ liệu, và đăng nhập/đăng ký người dùng tối ưu di động.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
